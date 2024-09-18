@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://legratele.github.io/sitemap.html.gz
+Sitemap: https://legratele.github.io/app/sitemap.html.gz
+Sitemap: https://legratele.github.io/assets/sitemap.html.gz
+Sitemap: https://legratele.github.io/css/sitemap.html.gz
+Sitemap: https://legratele.github.io/includes/sitemap.html.gz
+Sitemap: https://legratele.github.io/item/sitemap.html.gz
+Sitemap: https://legratele.github.io/src/sitemap.html.gz
